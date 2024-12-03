@@ -14,10 +14,14 @@ For reproducibility purposes:
 - Apply PCA and K-Means clustering following steps in the 4_PCA_and_clustering directory.
 - You can find the outputs from this work in the 5_outputs directory.
 
+# Comparison with SNP clustering
+- Obtain SNPs and run fastSTRUCTURE for a comparison with the above approach using the scripts in the XX directory
+
 # Software packages used  
 - SAMtools (version 1.12)
 - BCFtools (version 1.12)
 - Jellyfish (version 2.2.10)
+- [fastSTRUCTURE](https://github.com/rajanil/fastStructure)
   
 # Python Dependencies
 - Python (version 3.6.6)
