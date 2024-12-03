@@ -15,7 +15,7 @@ For reproducibility purposes:
 - You can find the outputs from this work in the 5_outputs directory.
 
 # Comparison with SNP clustering
-- Obtain SNPs and run fastSTRUCTURE for a comparison with the above approach using the scripts in the XX directory
+- Obtain SNPs and run fastSTRUCTURE for a comparison with the above approach using the scripts in the 6_empirical_data_SNPs_fastStructure directory
 
 # Software packages used  
 - SAMtools (version 1.12)
