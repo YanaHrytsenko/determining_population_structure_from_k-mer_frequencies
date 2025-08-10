@@ -32,7 +32,7 @@ For reproducibility purposes:
 
 
 # Citation
-Yana Hrytsenko, Noah M. Daniels, Rachel S. Schwartz et al. Determining population structure from k-mer frequencies., 01 December 2023, PREPRINT [https://doi.org/10.21203/rs.3.rs-1689838/v2]
+Yana Hrytsenko, Noah M. Daniels, Rachel S. Schwartz et al. "Determining population structure from k-mer frequencies.", 05 March 2025, PeerJ [https://doi.org/10.7717/peerj.18939]
 
 # License
 MIT License
